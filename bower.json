@@ -1,0 +1,22 @@
+{
+  "name": "calculator",
+  "authors": [
+    "Hannan Ali <abdulhannanali@outlook.com>"
+  ],
+  "description": "a calculator based on material design",
+  "main": "index.html",
+  "moduleType": [],
+  "license": "MIT",
+  "homepage": "",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "Materialize": "materialize#~0.97.1",
+    "bootstrap": "~3.3.5"
+  }
+}
